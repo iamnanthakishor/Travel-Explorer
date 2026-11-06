@@ -49,7 +49,6 @@ travel-explorer/
 ├── js/
 │   └── script.js
 │
-│
 └── README.md
 ```
 
